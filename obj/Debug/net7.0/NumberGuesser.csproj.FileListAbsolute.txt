@@ -1,0 +1,15 @@
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\bin\Debug\net7.0\NumberGuesser.exe
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\bin\Debug\net7.0\NumberGuesser.deps.json
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\bin\Debug\net7.0\NumberGuesser.runtimeconfig.json
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\bin\Debug\net7.0\NumberGuesser.dll
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\bin\Debug\net7.0\NumberGuesser.pdb
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\obj\Debug\net7.0\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\obj\Debug\net7.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\obj\Debug\net7.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\obj\Debug\net7.0\NumberGuesser.AssemblyInfo.cs
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\obj\Debug\net7.0\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\obj\Debug\net7.0\NumberGuesser.dll
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\obj\Debug\net7.0\refint\NumberGuesser.dll
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\obj\Debug\net7.0\NumberGuesser.pdb
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\obj\Debug\net7.0\NumberGuesser.genruntimeconfig.cache
+C:\Users\simon\Prosjekter\.NET\NumberGuesser\obj\Debug\net7.0\ref\NumberGuesser.dll
